@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rohan!<br>💻 I’m currently a software designer at Monal Tech, where I started as an intern and have worked on diverse projects.<br>🎓 Former executive member of NCIT Club, focusing on tech events and community building.<br>🌟 Passionate about full-stack development <br>📫 Feel free to reach out if you want to connect or discuss tech topics. Let’s build something great together!
+👋 Hi, I’m Rohan!<br>💻 I’m currently a software Devloper at Monal Tech, where I started as an intern and have worked on diverse projects.<br>🎓 Former executive member of NCIT Club, focusing on tech events and community building.<br>🌟 Passionate about full-stack development <br>📫 Feel free to reach out if you want to connect or discuss tech topics. Let’s build something great together!
 
 
 ## 🌐 Socials:
