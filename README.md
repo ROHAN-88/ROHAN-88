@@ -32,8 +32,6 @@
 - **Street to Home** (Freelance) — Next.js, Django — full-stack company website, design to deployment.
 - **Perfect International Consultancy** (Freelance) — Vite + React — responsive, performance-optimized company website.
 
-> Add repo/live links to each project above once you have the URLs handy — I left them as plain bullets since the CV didn't include the actual links.
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ROHAN-88&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ROHAN-88&theme=dark&hide_border=true)<br/>
